@@ -10,7 +10,7 @@
 ## 2️⃣ Whitelabel Error Page 스크린샷
 
 
-![Whitelabel Error Page](./과제 1 스크린샷.png)
+![Whitelabel Error Page](hw1%20screenshot.png)
 
 
 ---
